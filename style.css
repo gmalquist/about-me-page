@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(16, 225, 179);
+    text-shadow: 1px 1px 2px rgb(248, 248, 248);
+}
+p {
+    font-size: 20px;
+}
+.doubleup{
+    border: double 10px teal;
+}
+
+.skill {
+    background-color: rgb(89, 203, 127);
+}
+
+.hobby {
+    background-color: bisque;
+}
+.classes {
+    background-color: lightseagreen;
+}
+.middle {
+    text-align:center;
+}
